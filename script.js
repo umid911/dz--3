@@ -16,7 +16,7 @@
       var power = +prompt('Ввидите степень')
   } while (isNaN(power)) {
       if (power == 0) {
-          power == 2
+          power = 2
       }
       
   }
